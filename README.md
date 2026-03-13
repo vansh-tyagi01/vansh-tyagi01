@@ -1,4 +1,4 @@
-# Hi  👋 I'm Vansh Tyagi
+# Hi 👋 I'm Vansh Tyagi
 
 I am a beginner programmer from India.
 I have learned Python, Java, HTML, CSS, C++, and Flask.
@@ -8,7 +8,7 @@ I have a strong interest in Artificial Intelligence and Machine Learning.
 In the future, I plan to improve my skills further and build projects in AI and ML.
 
 
-## 🚀 Skills
+##  Skills
 
 **Programming Languages**
 
@@ -32,14 +32,14 @@ In the future, I plan to improve my skills further and build projects in AI and 
 * Matplotlib
 
 
-## 📂 Projects
+##  Projects
 
 * Flight Booking System
 * Room Rent Booking System
 * Restaurant Management System
 
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * Advanced Python
 * Frontend Development
@@ -49,7 +49,7 @@ In the future, I plan to improve my skills further and build projects in AI and 
 * Machine Learning
 
 
-## 🎯 Goals
+##  Goals
 
 * Build more real-world projects
 * Learn AI and Machine Learning
