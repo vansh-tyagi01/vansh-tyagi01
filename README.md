@@ -37,6 +37,9 @@ In the future, I plan to improve my skills further and build projects in AI and 
 * Flight Booking System
 * Room Rent Booking System
 * Restaurant Management System
+* Library Management System
+* Password Generator
+* Daily Expense Tracker
 
 
 ##  Currently Learning
