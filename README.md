@@ -13,17 +13,17 @@ In the future, I plan to improve my skills further and build projects in AI and 
 **Programming Languages**
 
 * Python
-* Java
-* C++
 
 **Frontend Development**
 
 * HTML
 * CSS
+* JavaScript
 
 **Backend Development**
 
 * Flask
+* Fast API
 
 **Python Libraries**
 
@@ -40,24 +40,20 @@ In the future, I plan to improve my skills further and build projects in AI and 
 * Library Management System
 * Password Generator
 * Daily Expense Tracker
+* Car Price Prediction
 
 
 ##  Currently Learning
 
-* Advanced Python
-* Frontend Development
-* Backend Development with Flask
-* Database (SQL)
-* Artificial Intelligence
-* Machine Learning
+* Natural Language Processing[NLP]
+* Mathematics for Engineers
+* Deep Learning[ANN,CNN,RNN]
 
 
 ##  Goals
 
-* Build more real-world projects
-* Learn AI and Machine Learning
-* Improve problem-solving skills
-
+* Build Agentic AI tools that can be help to solve Problem
+* Create Rag System
 
 
 
