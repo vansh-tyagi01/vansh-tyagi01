@@ -41,6 +41,7 @@ In the future, I plan to improve my skills further and build projects in AI and 
 * Password Generator
 * Daily Expense Tracker
 * Car Price Prediction
+* Heart disease prediction
 
 
 ##  Currently Learning
@@ -48,6 +49,7 @@ In the future, I plan to improve my skills further and build projects in AI and 
 * Natural Language Processing[NLP]
 * Mathematics for Engineers
 * Deep Learning[ANN,CNN,RNN]
+* Data Structure
 
 
 ##  Goals
