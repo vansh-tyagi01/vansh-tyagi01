@@ -1,7 +1,6 @@
 # Hi 👋 I'm Vansh Tyagi
 
-I am a beginner programmer from India.
-I have learned Python, Java, HTML, CSS, C++, and Flask.
+I have complete Python, HTML, CSS,Machine Learning and Flask.
 I enjoy building small projects like Flight Booking System, Room Rent Booking System, and Restaurant Management System to improve my programming skills.
 I have a strong interest in Artificial Intelligence and Machine Learning.
 
