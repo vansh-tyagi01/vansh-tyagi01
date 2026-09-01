@@ -47,7 +47,6 @@ In the future, I plan to improve my skills further and build projects in AI and 
 ##  Currently Learning
 
 * Natural Language Processing[NLP]
-* Deep Learning[ANN,CNN,RNN]
 * Data Structure
 
 
@@ -55,6 +54,7 @@ In the future, I plan to improve my skills further and build projects in AI and 
 
 * Build Agentic AI tools that can be help to solve Problem
 * Create Rag System
+* Java Backend using Spring Boot
 
 
 
