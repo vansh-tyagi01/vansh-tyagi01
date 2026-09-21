@@ -42,6 +42,7 @@ In the future, I plan to improve my skills further and build projects in AI and 
 * Daily Expense Tracker
 * Car Price Prediction
 * Heart disease prediction
+* student teacher authentication system
 
 
 ##  Currently Learning
