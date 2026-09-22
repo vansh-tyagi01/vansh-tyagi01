@@ -12,6 +12,7 @@ In the future, I plan to improve my skills further and build projects in AI and 
 **Programming Languages**
 
 * Python
+* c++
 
 **Frontend Development**
 
