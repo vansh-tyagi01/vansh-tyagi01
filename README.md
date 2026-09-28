@@ -18,7 +18,6 @@ In the future, I plan to improve my skills further and build projects in AI and 
 
 * HTML
 * CSS
-* JavaScript
 
 **Backend Development**
 
