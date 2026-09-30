@@ -13,6 +13,7 @@ In the future, I plan to improve my skills further and build projects in AI and 
 
 * Python
 * c++
+* Java
 
 **Frontend Development**
 
@@ -50,6 +51,7 @@ In the future, I plan to improve my skills further and build projects in AI and 
 
 * Natural Language Processing[NLP]
 * Data Structure
+* Deep Learning
 
 
 ##  Goals
