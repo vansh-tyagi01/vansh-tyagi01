@@ -23,7 +23,6 @@ In the future, I plan to improve my skills further and build projects in AI and 
 **Backend Development**
 
 * Flask
-* Fast API
 
 **Python Libraries**
 
