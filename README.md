@@ -5,6 +5,7 @@ I enjoy building small projects like Flight Booking System, Room Rent Booking Sy
 I have a strong interest in Artificial Intelligence and Machine Learning.
 
 In the future, I plan to improve my skills further and build projects in AI and ML.
+Currently learning DSA and solve problem on online platforms like leetcode and coding ninjas.
 
 
 ##  Skills
