@@ -24,6 +24,7 @@ Currently learning DSA and solve problem on online platforms like leetcode and c
 **Backend Development**
 
 * Flask
+* FastAPI
 
 **Python Libraries**
 
