@@ -50,7 +50,7 @@ Currently learning DSA and solve problem on online platforms like leetcode and c
 
 * Natural Language Processing[NLP]
 * Data Structure
-* Deep Learning
+* Automata
 
 
 ##  Goals
